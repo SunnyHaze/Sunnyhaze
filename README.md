@@ -1,10 +1,10 @@
 # Welcome to my Profile 👋
-### Overview😄
+### Github Overview😄
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnyhaze&count_private=true&show_icons=true&theme=buefy&bg_color=40,FFFFFF,DDDDFF)](https://github.com/Sunnyhaze/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyHaze&hide=html&bg_color=40,FFFFFF,EEEEFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Self introduction
-- 📫 I’m a Chinese🇨🇳 colledge student in Sichuan University🐼. 
+- 📫 I’m a Chinese 🇨🇳 colledge student in Sichuan University🐼. 
 - 🔭 I’m currently working on CS224N.
 - 🌱 I’m currently learning ML and DL, especially NLP.
 <!--
