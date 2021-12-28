@@ -4,8 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyHaze&hide=html&bg_color=40,FFFFFF,EEEEFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Self introduction
-- 📫 I’m a Chinese 🇨🇳 colledge student in Sichuan University🐼. 
-- 🔭 I’m currently working on CS224N.
+- 📫 I am a Chinese undergraduate of Sichuan University🐼, majoring in computer science and technology💻. 
+- 🔭 I’m currently working on CS224N. 
 - 🌱 I’m currently learning ML and DL, especially NLP.
 <!--
 **SunnyHaze/Sunnyhaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
