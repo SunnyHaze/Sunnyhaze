@@ -1,8 +1,11 @@
 # Welcome to my Profile 👋
 ### Github Overview😄
 
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnyhaze&count_private=true&show_icons=true&theme=buefy&bg_color=40,FFFFFF,DDDDFF)](https://github.com/Sunnyhaze/) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyHaze&hide=html&bg_color=40,FFFFFF,EEEEFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
-|--|--|
+<a href="https://github.com/Sunnyhaze">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunnyhaze&count_private=true&show_icons=true&theme=buefy&bg_color=40,FFFFFF,DDDDFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyHaze&hide=html&bg_color=40,FFFFFF,EEEEFF&layout=compact" />
+</a>
+
 ### Self introduction
 - 📫 I am a Chinese undergraduate of Sichuan University🐼, majoring in computer science and technology💻. 
 - 🔭 I’m currently working on CS224N. 
