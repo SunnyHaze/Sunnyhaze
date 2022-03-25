@@ -7,9 +7,9 @@
 </a>
 
 ### Self introduction
-- 📫 I am a Chinese undergraduate of Sichuan University🐼, majoring in computer science and technology💻. 
-- 🔭 I’m currently working on Compiler & Mantra-Net. 
-- 🌱 I’m currently learning ML and DL, especially NLP.
+- 📫 I am working on my Bachelor degree in Sichuan University🐼, China. My major is computer science and technology💻. 
+- 🔭 I’m currently working on Compiler(Stanford CS143) & Image manipulation detection. 
+- 🌱 I’m currently learning ML and DL.
 <!--
 **SunnyHaze/Sunnyhaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
