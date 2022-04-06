@@ -10,6 +10,11 @@
 - 📫 I am working on my Bachelor degree in Sichuan University🐼, China. My major is computer science and technology💻. 
 - 🔭 I’m currently working on Compiler(Stanford CS143) & Image manipulation detection. 
 - 🌱 I’m currently learning ML and DL.
+
+### Personal Site & Blog
+- Main personal page is still on working...
+- Welcome to my [blog](https://sunnyhaze.github.io/blog)✨ (in chinese) by Github pages and hexo.
+
 <!--
 **SunnyHaze/Sunnyhaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
