@@ -1,7 +1,7 @@
 # Welcome to my Profile 👋
 ### Github Overview😄
 
-<a href="https://github.com/Sunnyhaze">
+<a href=" https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunnyhaze&count_private=true&show_icons=true&theme=buefy&bg_color=40,FFFFFF,DDDDFF" />
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SunnyHaze&hide=html,javascript,css&bg_color=40,FFFFFF,EEEEFF&layout=compact" />
 </a>
