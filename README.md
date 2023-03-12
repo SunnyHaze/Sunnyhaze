@@ -11,7 +11,7 @@
 
 ### Self introduction
 - 📫 I am working on my Bachelor degree in Sichuan University🐼, China. My major is computer science and technology💻. 
-- 🔭 I’m currently working on Compiler(Stanford CS143) & Image manipulation detection. 
+- 🔭 I’m currently working on Computer Vision, exactly major the Image manipulation detection. 
 - 🌱 I’m currently learning ML and DL.
 
 ### Personal Site & Blog
