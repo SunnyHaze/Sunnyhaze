@@ -17,7 +17,7 @@
 ### Personal Site & Blog
 - Main personal page is still on working...
 - Welcome to my [blog](https://sunnyhaze.github.io/blog)✨ (in chinese) by Github pages and hexo.
-- Here is my [CV](https://sunnyhaze.github.io/assests/resume/Xiaochen_Ma.pdf).
+<!-- - Here is my [CV](https://sunnyhaze.github.io/assests/resume/Xiaochen_Ma.pdf). -->
 <!--
 **SunnyHaze/Sunnyhaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
