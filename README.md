@@ -1,4 +1,6 @@
 # Welcome to my Profile 👋
+![](https://komarev.com/ghpvc/?username=Sunnyhaze&color=green)
+
 ### Github Overview😄
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
