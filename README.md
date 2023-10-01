@@ -17,8 +17,8 @@
 - 🔭 I’m currently working on Computer Vision, especially majoring in Image manipulation detection.
 
 
-### Links
-- My personal page: [me.xiaochen.world](https://me.xiaochen.world).
+### For More Info
+- My personal page: [me.xiaochen.world](https://me.xiaochen.world)
 - My Google Scholar page: [Link](https://scholar.google.com/citations?user=hGEIyCEAAAAJ)
 <!-- - Welcome to my [blog](https://sunnyhaze.github.io/blog)✨ (in chinese) by Github pages and hexo. -->
 <!-- - Here is my [CV](https://sunnyhaze.github.io/assests/resume/Xiaochen_Ma.pdf). -->
