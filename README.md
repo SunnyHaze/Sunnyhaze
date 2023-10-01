@@ -12,13 +12,13 @@
 -->
 
 ### Self-introduction
-- 📫 I am a Research Assistant at Sichuan University, advised by Prof. [Jizhe Zhou](https://cs.scu.edu.cn/info/1283/17001.htm).
+- 🌱 I am a Research Assistant at Sichuan University, advised by Prof. [Jizhe Zhou](https://cs.scu.edu.cn/info/1283/17001.htm).
 - 📫 Before that, I got my B.E. degree in computer science and technology at Sichuan University🐼, China. 
 - 🔭 I’m currently working on Computer Vision, especially majoring in Image manipulation detection.
 
 
 ### For More Info
-- My personal page: [me.xiaochen.world](https://me.xiaochen.world)
+- My personal homepage: [me.xiaochen.world](https://me.xiaochen.world)
 - My Google Scholar page: [Link](https://scholar.google.com/citations?user=hGEIyCEAAAAJ)
 <!-- - Welcome to my [blog](https://sunnyhaze.github.io/blog)✨ (in chinese) by Github pages and hexo. -->
 <!-- - Here is my [CV](https://sunnyhaze.github.io/assests/resume/Xiaochen_Ma.pdf). -->
