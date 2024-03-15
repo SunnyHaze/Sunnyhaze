@@ -16,6 +16,7 @@
 - 📫 Before that, I got my B.E. degree in computer science and technology at Sichuan University🐼, China. 
 - 🔭 I’m currently working on Computer Vision, especially majoring in Image manipulation detection.
 
+🎓 Exciting news! I am thrilled to share that I will be pursuing my Ph.D. in Computer Vision at MBZUAI soon, looking forward to this new chapter in my academic journey!
 
 ### For More Info
 - My personal homepage: [me.xiaochen.world](https://me.xiaochen.world)
