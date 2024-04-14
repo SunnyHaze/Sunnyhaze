@@ -13,9 +13,8 @@
 
 ### Self-introduction
 - 🌱 I am a Research Assistant at Sichuan University, advised by Prof. [Jizhe Zhou](https://knightzjz.github.io).
-- 📫 Before that, I got my B.E. degree in computer science and technology at Sichuan University🐼, China. 
-- 🔭 I’m currently working on Computer Vision, especially majoring in Image manipulation detection.
-
+- 📫 Before that, I got my Bachelor of Engineering degree in computer science and technology at Sichuan University🐼, China. 
+- 🔭 I’m working on Computer Vision, especially majoring in Image manipulation detection.
 - 🎓 **Exciting news**! I will be pursuing my Ph.D. in Computer Vision at MBZUAI soon, looking forward to this new chapter in my academic journey!
 
 ### For More Info
