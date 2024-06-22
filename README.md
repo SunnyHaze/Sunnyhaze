@@ -18,7 +18,7 @@
 - 🎓 **Exciting news**! I will be pursuing my Ph.D. in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/) soon, looking forward to this new chapter in my academic journey!
 
 ### For More Info
-- My personal homepage: [me.xiaochen.world](https://me.xiaochen.world)
+- My personal homepage: [ma.xiaochen.world](https://ma.xiaochen.world)
 - My Google Scholar page: [Link](https://scholar.google.com/citations?user=hGEIyCEAAAAJ)
 <!-- - Welcome to my [blog](https://sunnyhaze.github.io/blog)✨ (in chinese) by Github pages and hexo. -->
 <!-- - Here is my [CV](https://sunnyhaze.github.io/assests/resume/Xiaochen_Ma.pdf). -->
