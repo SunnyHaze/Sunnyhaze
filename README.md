@@ -12,10 +12,10 @@
 -->
 
 ### Self-introduction
-- 🌱 I am a Research Assistant at [Sichuan University](https://scu.edu.cn/), advised by Prof. [Jizhe Zhou](https://knightzjz.github.io).
-- 📫 Before that, I got my Bachelor of Engineering degree in computer science and technology at Sichuan University🐼, China. 
-- 🔭 I’m working on Computer Vision, especially majoring in Image manipulation detection.
-- 🎓 **Exciting news**! I will be pursuing my Ph.D. in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/) soon, looking forward to this new chapter in my academic journey!
+- 🌱 I am currently a Ph.D. student at [MBZUAI](https://mbzuai.ac.ae/), focusing on Computer Vision, especially majoring in Large Vision Models. My advisor is [Prof. Zhiqiang Shen](https://zhiqiangshen.com/).
+- 📫 Previously, I worked as a Research Assistant majoring in Image Manipulation Localization at [Sichuan University](https://scu.edu.cn/), advised by [Prof. Jizhe Zhou](https://knightzjz.github.io).
+- 🎓 I hold a Bachelor of Engineering degree in Computer Science and Technology from Sichuan University🐼, China.
+- 🔭 I am excited to be part of the MBZUAI community and look forward to contributing to the field of Computer Vision!
 
 ### For More Info
 - My personal homepage: [ma.xiaochen.world](https://ma.xiaochen.world)
