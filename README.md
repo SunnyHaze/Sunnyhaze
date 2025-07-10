@@ -4,12 +4,13 @@
 ### Github Overview😄
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunnyhaze&count_private=true&show_icons=true&theme=buefy&bg_color=40,FFFFFF,DDDDFF" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SunnyHaze&hide=html,javascript,CSS,jupyter%20notebook&bg_color=40,FFFFFF,EEEEFF&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunnyhaze&count_private=true&show_icons=true&theme=buefy&bg_color=40,FFFFFF,DDDDFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyHaze&hide=html,javascript,CSS,jupyter%20notebook&bg_color=40,FFFFFF,EEEEFF&layout=compact" />
 </a>
 <!--  IF you want to create a statisitc band like above, you can visit this offical repo to create and define your own band style:
      https://github.com/anuraghazra/github-readme-stats
 -->
+
 
 ### Self-introduction
 - 🌱 I am currently a Ph.D. student at [MBZUAI](https://mbzuai.ac.ae/), focusing on Computer Vision, especially majoring in Large Vision Models. My advisor is [Prof. Zhiqiang Shen](https://zhiqiangshen.com/).
