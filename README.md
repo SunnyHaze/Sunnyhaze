@@ -13,8 +13,7 @@
 
 
 ### Self-introduction
-- 🌱 I am currently a Ph.D. student at [MBZUAI](https://mbzuai.ac.ae/), focusing on Computer Vision, especially majoring in Large Vision Models. My advisor is [Prof. Zhiqiang Shen](https://zhiqiangshen.com/).
-- 🏖️ I am currently on a one-year leave and working as a Research Assistant at Peking University, focusing on LLMs and MLLMs, advised by [Prof. Wentao Zhang](https://zwt233.github.io).
+- 🏖️ I am currently working as a Research Assistant at Peking University, focusing on LLMs and MLLMs, advised by [Prof. Wentao Zhang](https://zwt233.github.io).
 - 📫 Previously, I worked as a Research Assistant majoring in Image Manipulation Localization at [Sichuan University](https://scu.edu.cn/), advised by [Prof. Jizhe Zhou](https://knightzjz.github.io).
 - 🎓 I hold a Bachelor of Engineering degree in Computer Science and Technology from Sichuan University🐼, China.
 - 🔭 I am excited to be part of the MBZUAI community and look forward to contributing to the field of Computer Vision!
